@@ -1,9 +1,7 @@
 # ⚡ Automatic Power Factor Correction (APFC) System
 
-This project implements an **Automatic Power Factor Correction (APFC)** system using an **Arduino**, voltage and current sensors, and **relay-controlled capacitor banks**.  
+This project implements an **Automatic Power Factor Correction (APFC)** system using an **Arduino**, voltage and current sensors, and **relay-controlled capacitor and inductor banks**.  
 The system continuously measures the power factor of an AC load, detects phase difference through **zero-crossing**, and automatically switches capacitor banks to improve low power factor.
-
----
 
 ## 🚀 Features
 - Real-time **voltage and current measurement**
@@ -15,10 +13,8 @@ The system continuously measures the power factor of an AC load, detects phase d
   - Power Factor (PF)
   - Required Reactive Power for correction
 - Automatic capacitor bank switching  
-- Live PF monitoring via Serial / LCD  
-
----
-
+- Live PF monitoring via Serial / LCD
+- 
 ## 📘 Project Overview
 
 Power factor is a key parameter in AC power systems. A low power factor increases current consumption and reduces system efficiency.  
@@ -30,25 +26,18 @@ This project improves power factor by:
 4. Switching capacitor banks to supply reactive power  
 5. Bringing PF closer to **unity**
 
----
-
 # 📐 Mathematical Model & Equations
 
-Below are all the electrical formulas implemented in the project.
-
----
-
 ## 1️⃣ RMS Voltage & RMS Current
-$$
-\[
-V_{rms} = \sqrt{\frac{1}{N} \sum_{i=1}^{N} v_i^2}
-\]
 
-\[
-I_{rms} = \sqrt{\frac{1}{N} \sum_{i=1}^{N} i_i^2}
-\]
 $$
----
+V_{rms} = \sqrt{\frac{1}{N} \sum_{i=1}^{N} v_i^2}
+$$
+
+$$
+I_{rms} = \sqrt{\frac{1}{N} \sum_{i=1}^{N} i_i^2}
+$$
+
 
 ## 2️⃣ Zero-Crossing Phase Angle Calculation
 
