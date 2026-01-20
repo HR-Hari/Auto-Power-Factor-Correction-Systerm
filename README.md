@@ -145,9 +145,9 @@ Where:
 4. Observe PF, voltage, current on serial/LCD  
 5. System automatically switches capacitors
 
-## 📸 Demo / Images
+## 📸 Images
 
-Include system pictures, diagrams, screenshots here.
+![Circuit Diagram](https://github.com/HR-Hari/Auto-Power-Factor-Correction-Systerm/blob/ce1274698cc8a2943f67b4ebcb0ca71e07fc0178/Circuit.PNG)
 
 
 
