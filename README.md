@@ -137,7 +137,7 @@ Where:
 ---
 
 ## 🔧 System Architecture
-![System Architecture](System Architecture.png)
+![System Architecture](https://github.com/thushanths09/Auto-Power-Factor-Correction-Systerm/blob/03c738cd714d8a71cffc1b7ee9c436206481ed61/System%20Architecture.png)
 
 
 ---
