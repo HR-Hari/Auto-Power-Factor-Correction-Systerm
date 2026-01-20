@@ -137,8 +137,7 @@ Where:
 ---
 
 ## 🔧 System Architecture
-    AC Load
-       │
+![System Architecture](System Architecture.png)
 
 
 ---
