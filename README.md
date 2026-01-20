@@ -44,9 +44,9 @@ $$
 
 Let:
 
-- \( t_v \) = time of voltage zero crossing  
-- \( t_i \) = time of current zero crossing  
-- \( T = \frac{1}{f} \) = time period of AC supply
+- $$\( t_v \)$$ = time of voltage zero crossing  
+- $$\( t_i \)$$ = time of current zero crossing  
+- $$\( T = \frac{1}{f} \)$$ = time period of AC supply
 
 Then the phase angle is:
 
