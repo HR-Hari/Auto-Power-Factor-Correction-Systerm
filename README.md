@@ -168,14 +168,6 @@ Include system pictures, diagrams, screenshots here.
 
 ---
 
-## 📜 License  
-MIT License (or any license you prefer)
 
----
 
-## 👨‍💻 Author  
-**Thushanth**  
-Electrical & Electronic Engineering Undergraduate  
-Passionate about IoT, DSP, embedded systems, AI  
-AIESEC LCVP Marketing | Production Head (NST)
 
